@@ -1,0 +1,11 @@
+.skills{
+  text-decoration: underline;
+}
+
+article .btn{
+  border-bottom: none;
+}
+
+#portfolio_content{
+  margin-top: 20px;
+}
